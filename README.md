@@ -14,7 +14,7 @@ First clone the repository, run "npm i" in the integrated terminal to download d
 
 
  
-    ![alt text](assets/images/screenshot.png)
+![Homepage of portfolio created with React](./assets/images/homepage.png)
 
 
 ## Credits
