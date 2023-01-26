@@ -1,8 +1,6 @@
-
-
 import React from 'react';
 
-function footer() {
+function Footer() {
   const icons = [
     {
       name: "fab fa-github",
@@ -11,7 +9,7 @@ function footer() {
     {
       name: "fab fa-linkedin",
       link: "https://www.linkedin.com/in/bryant-trinh-60208014a/"
-    },
+    }
   ]
 
   return (

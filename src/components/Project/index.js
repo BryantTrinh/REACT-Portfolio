@@ -16,7 +16,7 @@ function Project({ project }) {
             <i className="fab fa-github"></i>
           </a>
         </h3>
-        <p>{description</p>
+        <p>{description}</p>
       </div>
     </div>
   );
