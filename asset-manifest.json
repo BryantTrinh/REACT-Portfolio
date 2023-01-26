@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/BryantTrinh/REACT-Portfolio/static/css/main.fc497156.css",
+    "main.js": "/BryantTrinh/REACT-Portfolio/static/js/main.d1af6614.js",
+    "static/media/cover-image.jpg": "/BryantTrinh/REACT-Portfolio/static/media/cover-image.3f4b8a47f17655a4ac17.jpg",
+    "index.html": "/BryantTrinh/REACT-Portfolio/index.html",
+    "main.fc497156.css.map": "/BryantTrinh/REACT-Portfolio/static/css/main.fc497156.css.map",
+    "main.d1af6614.js.map": "/BryantTrinh/REACT-Portfolio/static/js/main.d1af6614.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc497156.css",
+    "static/js/main.d1af6614.js"
+  ]
+}
